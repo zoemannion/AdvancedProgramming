@@ -184,6 +184,7 @@
             this.btnLargestWonLost.TabIndex = 15;
             this.btnLargestWonLost.Text = "Largest Won and Lost";
             this.btnLargestWonLost.UseVisualStyleBackColor = true;
+            this.btnLargestWonLost.Click += new System.EventHandler(this.btnLargestWonLost_Click);
             // 
             // btnSuccess
             // 
@@ -193,6 +194,7 @@
             this.btnSuccess.TabIndex = 16;
             this.btnSuccess.Text = "HotTipster Success";
             this.btnSuccess.UseVisualStyleBackColor = true;
+            this.btnSuccess.Click += new System.EventHandler(this.btnSuccess_Click);
             // 
             // dtpDate
             // 
@@ -220,6 +222,11 @@
             // lstBetsByDate
             // 
             this.lstBetsByDate.FormattingEnabled = true;
+            this.lstBetsByDate.Items.AddRange(new object[] {
+            "Course",
+            "Date",
+            "Amount",
+            "Win"});
             this.lstBetsByDate.Location = new System.Drawing.Point(329, 416);
             this.lstBetsByDate.Name = "lstBetsByDate";
             this.lstBetsByDate.Size = new System.Drawing.Size(138, 134);
