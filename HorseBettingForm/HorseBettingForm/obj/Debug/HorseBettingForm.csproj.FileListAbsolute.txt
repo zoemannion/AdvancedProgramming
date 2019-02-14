@@ -1,0 +1,10 @@
+C:\Users\10380186\HorseBettingForm\HorseBettingForm\bin\Debug\HorseBettingForm.exe.config
+C:\Users\10380186\HorseBettingForm\HorseBettingForm\bin\Debug\HorseBettingForm.exe
+C:\Users\10380186\HorseBettingForm\HorseBettingForm\bin\Debug\HorseBettingForm.pdb
+C:\Users\10380186\HorseBettingForm\HorseBettingForm\obj\Debug\HorseBettingForm.csprojAssemblyReference.cache
+C:\Users\10380186\HorseBettingForm\HorseBettingForm\obj\Debug\HorseBettingForm.Form1.resources
+C:\Users\10380186\HorseBettingForm\HorseBettingForm\obj\Debug\HorseBettingForm.Properties.Resources.resources
+C:\Users\10380186\HorseBettingForm\HorseBettingForm\obj\Debug\HorseBettingForm.csproj.GenerateResource.cache
+C:\Users\10380186\HorseBettingForm\HorseBettingForm\obj\Debug\HorseBettingForm.csproj.CoreCompileInputs.cache
+C:\Users\10380186\HorseBettingForm\HorseBettingForm\obj\Debug\HorseBettingForm.exe
+C:\Users\10380186\HorseBettingForm\HorseBettingForm\obj\Debug\HorseBettingForm.pdb
